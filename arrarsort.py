@@ -1,3 +1,5 @@
+# This code verifies if an array is sorted. The reshefled array is supposed to hold sorted values. 
+
 def test(numbers):
 	b = [x for x in numbers]
 	vals = [0 for x in numbers]
